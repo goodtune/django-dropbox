@@ -1,0 +1,1 @@
+New `Storage` backend to provide integration with a Dropbox account for file storage.
